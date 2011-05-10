@@ -6,7 +6,7 @@ MarkupSafe
 Paste
 PasteDeploy
 PasteScript
-PIL
+# PIL
 Pygments
 Pylons==0.9.7
 Routes
@@ -19,7 +19,7 @@ WebTest
 decorator
 dnspython
 elementtree
-lxml
+# lxml
 nose
 python-openid
 simplejson
