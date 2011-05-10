@@ -105,7 +105,7 @@
            <%include file="/flash.mako" />
             ${next.body()}
         </div>
-        <div id="footer">© 2011 Zookeepr</div>
+        <div id="footer">© 2011 <a href=http://zookeepr.org>Zookeepr</a></div>
       </div>
     </div>
   </div>
